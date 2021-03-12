@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Felipe languages" width="75%" src="https://github-readme-stats.vercel.app/api?username=felipegarcia99&show_icons=true&theme=dracula"/>
-<img alt="Felipe status" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegarcia99&layout=compact&theme=dracula"/>
+<img alt="Felipe languages" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipegarcia99&show_icons=true&theme=dracula"/>
+<img alt="Felipe status" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegarcia99&layout=compact&theme=dracula"/>
