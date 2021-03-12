@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Felipe languages" width="35%" src="https://github-readme-stats.vercel.app/api?username=felipegarcia99&show_icons=true&theme=dracula"/>
+<img alt="Felipe status" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegarcia99&layout=compact&theme=dracula"/>
