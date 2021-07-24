@@ -96,8 +96,8 @@ Feel free to contact me!
 
 ## ⚡ GitHub Stats
 
-<img alt="Felipe languages" width="54%" src="https://github-readme-stats.vercel.app/api?username=felipegarcia99&show_icons=true&theme=dracula"/>
-<img alt="Felipe status" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegarcia99&layout=compact&theme=dracula"/>
+<img alt="Felipe languages" width="40%" src="https://github-readme-stats.vercel.app/api?username=felipegarcia99&show_icons=true&theme=dracula"/>
+<img alt="Felipe status" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegarcia99&layout=compact&theme=dracula"/>
 
 ## 📞👥 Contact me
 
