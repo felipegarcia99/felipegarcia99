@@ -32,15 +32,24 @@ Feel free to contact me!
 
 ### Embedded plataforms and IoT related
 
-- BeagleBone Black
-- Texas Instruments SDK
-- ARM architeture
-- ESP32 and ESP8266
-
 <p>
+
+<img src="https://img.shields.io/badge/Eletronics%20and%20circuits-green?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+
+<img src="https://img.shields.io/badge/BeagleBone%20Black-1a1919?style=for-the-badge&logo=linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Texas%20Instruments%20SDK-c30909?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ARM%20architecture%20-09adc3?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ESP32%20and%20ESP8266-86592d?style=for-the-badge&logo=espressif&logoColor=red">
+
+<img src="https://img.shields.io/badge/Embedded%20Linux-white?style=for-the-badge&logo=linux&logoColor=black">
+
 </p>
 
 ### Databases
